@@ -3596,6 +3596,7 @@ table p {
 }
 .about-thumb img {
   width: 100%;
+  margin-top: 150px;
 }
 
 .about-content-style1 .about-thumb {
@@ -5355,7 +5356,7 @@ table p {
   }
 }
 .project-default-area .section-title .title, .project-default-area .section-title .subtitle {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-default-area .bg-shape-style {
   border-radius: 2px;
@@ -5453,7 +5454,7 @@ table p {
   }
 }
 .project-item .content .title a {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-item .content .category {
   font-size: 15px;
@@ -5465,7 +5466,7 @@ table p {
   }
 }
 .project-item .content .category a {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-item:hover .thumb img {
   transform: scale(1.15);
