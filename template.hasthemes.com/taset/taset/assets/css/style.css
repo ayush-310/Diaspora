@@ -506,7 +506,7 @@ table p {
 }
 @media only screen and (max-width: 991px) {
   .page-title-area .page-title-content {
-    padding: 182px 0 80px;
+    padding: 150px 20px 50px;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -516,7 +516,7 @@ table p {
 }
 @media only screen and (max-width: 575px) {
   .page-title-area .page-title-content {
-    padding: 140px 0 55px;
+    padding: 100px 0 20px;
   }
 }
 .page-title-area .page-title-content .title {
@@ -541,6 +541,7 @@ table p {
 }
 .page-title-area .page-title-content .bread-crumbs {
   margin-right: 3px;
+  margin-top: 30px;
 }
 .page-title-area .page-title-content .bread-crumbs a {
   color: #fff;
@@ -567,7 +568,7 @@ table p {
   color: #ff5e14;
 }
 .page-title-area .bg-overlay3 {
-  background-color: #05103b;
+  background-color:blue;
   height: 100%;
   left: 0;
   opacity: 0.8;
@@ -5404,16 +5405,16 @@ table p {
 }
 
 .project-grid-area {
-  padding: 140px 0;
+  padding: 40px 0;
 }
 @media only screen and (max-width: 1199px) {
   .project-grid-area {
-    padding: 100px 0;
+    padding: 10px 0;
   }
 }
 @media only screen and (max-width: 767px) {
   .project-grid-area {
-    padding: 80px 0;
+    padding: 10px 0;
   }
 }
 
