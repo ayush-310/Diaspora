@@ -3604,6 +3604,7 @@ table p {
 }
 .about-thumb img {
   width: 100%;
+  margin-top: 150px;
 }
 
 .about-content-style1 .about-thumb {
@@ -4370,7 +4371,7 @@ table p {
 }
 @media only screen and (max-width: 479.98px) {
   .divider-wrap .column-right {
-    background-image: url("../img/photos/bg1.webp");
+    background-image: url("../img/home/11.home-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     left: -3px;
@@ -4382,7 +4383,7 @@ table p {
   }
 }
 .divider-wrap .column-right:before {
-  background-image: url("../img/photos/bg1.webp");
+  background-image: url("../img/home/11.home-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   content: "";
@@ -4526,6 +4527,7 @@ table p {
 }
 .service-item .thumb img {
   width: 100%;
+  height: 200px;
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
@@ -5363,7 +5365,7 @@ table p {
   }
 }
 .project-default-area .section-title .title, .project-default-area .section-title .subtitle {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-default-area .bg-shape-style {
   border-radius: 2px;
@@ -5461,7 +5463,7 @@ table p {
   }
 }
 .project-item .content .title a {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-item .content .category {
   font-size: 15px;
@@ -5473,7 +5475,7 @@ table p {
   }
 }
 .project-item .content .category a {
-  color: #fff;
+  /* color: #fff; */
 }
 .project-item:hover .thumb img {
   transform: scale(1.15);
@@ -6000,7 +6002,7 @@ table p {
 @media only screen and (max-width: 1199px) {
   .post-item .content {
     margin-left: 65px;
-    margin-top: -150px;
+    margin-top: -50px;
   }
 }
 @media only screen and (max-width: 991px) {
