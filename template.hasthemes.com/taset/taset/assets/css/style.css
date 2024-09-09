@@ -5720,7 +5720,7 @@ table p {
 }
 .portfolio-item .inner-content .thumb img {
   width: 100%;
-  height: 400px;
+  height: 300px;
 }
 .portfolio-item .inner-content .thumb:before {
   background-color: #05103b;
