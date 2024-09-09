@@ -1,0 +1,23 @@
+Merge remote-tracking branch 'origin/faiz' into faiz
+
+# Conflicts:
+#	template.hasthemes.com/taset/taset/assets/css/style.css
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@DESKTOP-I76P7F3>
+#
+# On branch faiz
+# Your branch and 'origin/faiz' have diverged,
+# and have 1 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
